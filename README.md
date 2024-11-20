@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, play games, watch movies.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on some big coding project
-- 📫 How to reach me - call or sms or whatsapp to my phone +972-524378007, and my email yehonatan9080740@gmail.com
+- 📫 How to reach me - call or sms or whatsapp to my phone +972524378007, and my email yehonatan9080740@gmail.com
 - 😄 Pronouns: jonatan
 - ⚡ Fun fact: i am just loving life.
 
