@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @Yehonatan-rabinovich.
-- 👀 I’m interested in coding, play games, watch movies.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on some big coding project
-- 📫 How to reach me - call or sms or whatsapp to my phone +972-524-378-007, and my email yehonatan9080740@gmail.com
+□ 👋 Hi, I’m @Yehonatan-rabinovich.
+
+□ 👀 Interested in: 
+
+Software Quality, Automation, and the world of DevSecOps. I still love gaming and movies, but I'm now deeply into exploring how systems work and scale
+
+□ 🌱 Currently learning:
+
+1st year of B.Sc. in Computer Science at Ashkelon Academic College. Expanding my knowledge in Linux, Networking (TCP/IP, Subnets), and CI/CD pipelines.
+
+□ 💞️ Looking to collaborate on:
+
+Open-source projects involving Python automation, API development, or infrastructure-as-code.
+
+□ 🛠 Tech Stack:
+
+Languages: Python, C#, Java.
+
+Tools: Git, Docker (Basic), AWS (Basic), Pytest.
+
+OS: Linux (Terminal), Windows (CMD).
+
+□ 📫 How to reach me:
+
+📞 WhatsApp/SMS: 052-4378007
+
+📧 Email: yehonatan9080740@gmail.com
+
 - 😄 Pronouns: jonatan
+
 - ⚡ Fun fact: i am just loving life.
 
 <!---
